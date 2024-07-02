@@ -8,3 +8,10 @@
 1. VS Code
 2. Git
 3. GitHub
+
+## Education:
+Moscow Institute of Humanities and Economics
+
+## Languages:
+Russian, English.
+
